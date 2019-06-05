@@ -1,0 +1,6 @@
+pinyinData/拼音汉字表.txt filter=lfs diff=lfs merge=lfs -text
+pinyinData/说明.txt filter=lfs diff=lfs merge=lfs -text
+pinyinData/answer.txt filter=lfs diff=lfs merge=lfs -text
+pinyinData/input.txt filter=lfs diff=lfs merge=lfs -text
+pinyinData/output.txt filter=lfs diff=lfs merge=lfs -text
+pinyinData/一二级汉字表.txt filter=lfs diff=lfs merge=lfs -text
