@@ -23,7 +23,7 @@ This section iterates through the list of inputs and performs the Viterbi algori
 In addition to the standard inputs, I asked a few people to write some inputs in order to get an accurate representation of what everyday language looks like:
 
 |      | Input | Expected Answer | Output | Accuracy |
-| ---- | ----- | -------- | ------ | ------ | -------- |
+| :--- | :---- | :-------------- | :----- | :------- |
 | 1 | qing hua da xue ji suan ji xi | 清华大学计算机系 | 清华大学计算机系 | 8/8 |
 | 3 | wo shang xue qu le | 我上学去了 | 我上学去了 | 5/5 |
 | 4 | jin tian hui jia bi jiao wan | 今天回家比较晚 | 今天会价比较完 | 4/7 |
